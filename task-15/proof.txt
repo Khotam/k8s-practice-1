@@ -1,0 +1,1 @@
+{"domain":"localhost:3000","endpoint":"/check-ingress","full_path:":"localhost:3000/check-ingress"}
